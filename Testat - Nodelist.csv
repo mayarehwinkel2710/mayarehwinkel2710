@@ -1,0 +1,35 @@
+id ,name ,sex,age,type,power,function,partnership,education,representation,position
+th,Thomas Hitzlsperger,1,1,0,2,V,NA,0,1,3
+sh,Stefan Heim,1,2,0,1,V,NA,2,2,3
+jr,Jochen Röttgermann,1,3,0,1,V,NA,3,3,3
+os,Oliver Schraft,1,3,0,0,V,NA,2,3,3
+cv,Claus Vogt,1,3,0,2,AR,NA,2,1,3
+wp,Wilfried Porth,1,4,0,1,AR,NA,3,1,2
+ra,Rainer Adrion,1,4,0,0,AR,NA,2,2,1
+bg,Dr. Bernd Gaiser,1,3,0,0,AR,NA,4,2,1
+hj,Hartmut Jenner,1,3,0,0,AR,NA,3,2,2
+ho,Hermann Ohlicher,1,5,0,0,AR,NA,3,1,1
+fr,Franz Reiner,1,3,0,0,AR,NA,2,4,1
+bs,Dr. Betram Sugg,1,3,0,0,AR,NA,4,4,1
+vb,VfB,NA,NA,1,2,NA,NA,NA,NA,NA
+sw,Südwestbank,NA,NA,1,2,NA,NA,NA,NA,NA
+me,Mercedes Benz Bank,NA,NA,1,2,NA,2,NA,NA,NA
+mb,Mercedes Benz,NA,NA,1,2,NA,0,NA,NA,NA
+st,Stuttgarter Hofbräu,NA,NA,1,0,NA,1,NA,NA,NA
+ja,Jako,NA,NA,1,1,NA,0,NA,NA,NA
+vr,VfB Rehawelt GmbH,NA,NA,1,2,NA,3,NA,NA,NA
+fp,VfB fairplay,NA,NA,1,2,NA,3,NA,NA,NA
+bm,FC Bayern München,NA,NA,1,0,NA,NA,NA,NA,NA
+sn,Stadion NeckarPark,NA,NA,1,2,NA,3,NA,NA,NA
+wk,Wolfgang Kuhn,1,4,0,0,NA,NA,4,NA,1
+da,Daimler AG,NA,NA,1,1,NA,NA,NA,NA,NA
+ak,Alfred Kärcher SE & Co. KG,NA,NA,1,1,KA,NA,NA,NA,NA
+gb,Guido Buchwald,1,3,0,0,KA,NA,0,5,NA
+jk,Jürgen Klinsmann,1,3,0,0,KA,NA,2,5,NA
+tb,Thomas Berthold,1,3,0,0,KA,NA,0,5,NA
+vz,Volker Zeh,1,3,0,0,KA,NA,1,2,NA
+fm,Friedhild Miller,2,3,0,0,KA,NA,2,1,NA
+vs,VSD,NA,NA,NA,1,NA,NA,NA,NA,NA
+sm,VfB Stuttgart Marketing GmbH,NA,NA,NA,2,NA,NA,NA,NA,NA
+kc,Kommission Clubmedien DFL,NA,NA,NA,1,NA,NA,NA,NA,NA
+pf,FC PlayFair,NA,NA,NA,1,NA,NA,NA,NA,NA
